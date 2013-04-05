@@ -1,6 +1,8 @@
 openmrs-atomfeed-publisher
 ==========================
 
+[![Build Status](https://travis-ci.org/ICT4H/openmrs-atomfeed-publisher.png)](https://travis-ci.org/ICT4H/openmrs-atomfeed-publisher)
+
 AtomFeed Publisher Module For OpenMrs.
 
 What it does
