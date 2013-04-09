@@ -3,7 +3,7 @@
 
 	<groupId>org.openmrs.module</groupId>
 	<artifactId>feedpublishermodule</artifactId>
-	<version>0.9-SNAPSHOT</version>
+	<version>0.1.0</version>
     <modelVersion>4.0.0</modelVersion>
 	<packaging>pom</packaging>
 	<name>AtomFeed Publisher Module</name>
@@ -61,8 +61,7 @@
 
 	<properties>
 		<openMRSVersion>1.9.2</openMRSVersion>
-        <feedPublisherModule.version>0.9-SNAPSHOT</feedPublisherModule.version>
-        <atomfeed.version>0.9-SNAPSHOT</atomfeed.version>
+        <atomfeed.version>0.9.0</atomfeed.version>
 	</properties>
 
 	<build>
