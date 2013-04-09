@@ -16,11 +16,6 @@
 
 	<dependencyManagement>
 		<dependencies>
-            <dependency>
-                <groupId>org.ict4h</groupId>
-                <artifactId>atomfeed-server</artifactId>
-                <version>${atomfeed.version}</version>
-            </dependency>
 			<dependency>
 				<groupId>org.openmrs.api</groupId>
 				<artifactId>openmrs-api</artifactId>
@@ -91,9 +86,9 @@
 			<url>http://mavenrepo.openmrs.org/nexus/content/repositories/public</url>
 		</repository>
         <repository>
-            <id>sonatype-staging</id>
-            <name>Sonatype OSS Nexus</name>
-            <url>https://oss.sonatype.org/content/groups/public/</url>
+            <id>ict4h-sonatype</id>
+            <name>Sonatype OSS Nexus for ICTH4H</name>
+            <url>https://oss.sonatype.org/content/repositories/orgict4h-320/</url>
         </repository>
 	</repositories>
 
